@@ -18,6 +18,6 @@ BNN_train_fun.py to test the trained results on real-time to see whether the mod
 ## Note: Please Edit your PATH files
 Miscellanous files (Do not Remove):<br/>
 - activations.py
-- binary_layers.py
+- binary_layers.py <br/>
 (Results_validate Folder) <br/>
 - bnn_ip_binary.py (This is for fun to visualize the actual binarization of the input images)
