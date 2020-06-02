@@ -21,3 +21,5 @@ Miscellanous files (Do not Remove):<br/>
 - binary_layers.py <br/>
 ### (Results_validate Folder)
 - bnn_ip_binary.py (This is for fun to visualize the actual binarization of the input images)
+
+## This code is not maintained as it is for a school project
