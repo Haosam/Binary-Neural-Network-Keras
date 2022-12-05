@@ -23,3 +23,5 @@ Miscellanous files (Do not Remove):<br/>
 - bnn_ip_binary.py (This is for fun to visualize the actual binarization of the input images)
 
 ## This code is not maintained as it is for a school project
+
+### 5/12/2022 : Latest Update - Will consider Scikit-Learn implementation for certain aspects of the code for refresher of Machine Learning Methodologies
